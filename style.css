@@ -280,6 +280,8 @@ li.has-item li {
 
 .main-content-intro h1 {
     align-self: center;
+    width: 100%;
+    text-align: center;
 }
 
 .main-content-sub1 {
